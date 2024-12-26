@@ -1,0 +1,9 @@
+flask
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+docx2txt
+python-docx
+gradio
+python-dotenv
